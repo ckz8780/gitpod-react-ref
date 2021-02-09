@@ -1,10 +1,10 @@
 import './App.css';
-import ControlledFormHooks from './components/ControlledFormHooks';
+import UseEffectCounter from './components/UseEffectCounter';
 
 function App() {
   return (
     <div className="App">
-      <ControlledFormHooks />
+      <UseEffectCounter />
     </div>
   );
 }
