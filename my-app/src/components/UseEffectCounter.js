@@ -21,7 +21,6 @@ function UseEffectCounter() {
       console.log('cleaning up!')
       clearInterval(interval);
     }
-
   }, [])
 
   return (
